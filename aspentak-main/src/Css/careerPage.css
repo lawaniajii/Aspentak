@@ -1,0 +1,107 @@
+.career-page {
+    padding: 20px 50px;
+}
+
+.career-page .career-page-tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.career-page-tabs .contract-btn,
+.career-page-tabs .permanent-btn {
+    border: none;
+    margin-top: 30px;
+    border-radius: 0px;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #23BBB7;
+    font-weight: 600;
+    outline: none;
+}
+
+.career-page-tabs .contract-btn.current,
+.career-page-tabs .permanent-btn.current {
+    background-color: #7141b1;
+    outline: none;
+}
+
+.career-page-tabs .contract-btn:hover,
+.career-page-tabs .permanent-btn:hover {
+    background-color: #7141b1;
+}
+
+
+@media(max-width:425px) {
+    .career-page .career-page-tabs {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-top: 20px;
+
+    }
+
+    .career-page-tabs .btn {
+        justify-content: center;
+    }
+}
+
+.contract-tab-page ol,
+.permanent-tab-page ol {
+    list-style: none;
+    padding-left: 0px;
+    line-height: 15px;
+}
+
+.contract-tab-page ol li span,
+.permanent-tab-page ol li span {
+    font-weight: 900;
+}
+
+.contract-tab-page,
+.permanent-tab-page {
+    padding: 50px 0px;
+}
+
+.contract-tab-page #col,
+.permanent-tab-page #col {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 2px 4px 2px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+    margin: 10px;
+
+}
+
+
+.contract-tab-page #col:hover,
+.permanent-tab-page #col:hover {
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
+}
+
+.contract-tab-page .btn,
+.permanent-tab-page .btn {
+    border: none;
+    margin-top: 30px;
+    border-radius: 0px;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #23BBB7;
+    font-weight: 600;
+    outline: none;
+}
+
+
+.contract-tab-page.current,
+.permanent-tab-page.current {
+    display: block;
+}
+
+.contract-tab-page,
+.permanent-tab-page {
+    display: none;
+}
+
+
+/* form */

@@ -1,0 +1,104 @@
+{
+  "contractBasedJobs": [
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "INFOTECH",
+      "jobRole": "QA",
+      "qualification": "MCA",
+      "experience": "5",
+      "location": "Hyderabad"
+    }
+  ],
+  "permanentEmp": [
+    {
+      "company": "Vasavi groups",
+      "jobRole": "Civil engineer",
+      "qualification": "B.tech",
+      "experience": "3",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "Vasavi groups",
+      "jobRole": "Civil engineer",
+      "qualification": "B.tech",
+      "experience": "3",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "Vasavi groups",
+      "jobRole": "Civil engineer",
+      "qualification": "B.tech",
+      "experience": "3",
+      "location": "Hyderabad"
+    },
+    {
+      "company": "Vasavi groups",
+      "jobRole": "Civil engineer",
+      "qualification": "B.tech",
+      "experience": "3",
+      "location": "Hyderabad"
+    }
+  ],
+  "contactTimings": [
+    {
+      "name": "9:00AM - 12:00PM",
+      "value": "9:00AM - 12:00PM"
+    },
+    {
+      "name": "1:00PM - 5:00PM",
+      "value": "1:00PM - 5:00PM"
+    },
+    {
+      "name": "6:00PM - 9:00PM",
+      "value": "6:00PM - 9:00PM"
+    }
+  ]
+}
